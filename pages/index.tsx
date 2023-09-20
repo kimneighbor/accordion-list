@@ -16,11 +16,11 @@ const Home: React.FC = () => {
           />
           <img
             className="w-1/4"
-            src="https://i.pinimg.com/474x/31/a8/a7/31a8a760fdc80e2c0260f4cd5fc34029.jpg"
+            src="https://i.pinimg.com/474x/7e/91/cc/7e91cceafb309aab867828ce13ec5300.jpg"
           />
           <img
             className="w-1/4"
-            src="https://i.pinimg.com/474x/31/a8/a7/31a8a760fdc80e2c0260f4cd5fc34029.jpg"
+            src="https://i.pinimg.com/474x/91/7d/50/917d501bdf83742df301499421e673f9.jpg"
           />
           <img
             className="w-1/4"
